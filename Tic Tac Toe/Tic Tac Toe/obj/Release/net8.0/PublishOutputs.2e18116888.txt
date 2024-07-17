@@ -1,0 +1,5 @@
+C:\Osama_Code\.Net\C#\Projects\Small Projects\Tic Tac Toe\Tic Tac Toe\bin\Release\net8.0\app.publish\Tic Tac Toe.exe
+C:\Osama_Code\.Net\C#\Projects\Small Projects\Tic Tac Toe\Tic Tac Toe\bin\Release\net8.0\app.publish\Tic Tac Toe.dll
+C:\Osama_Code\.Net\C#\Projects\Small Projects\Tic Tac Toe\Tic Tac Toe\bin\Release\net8.0\app.publish\Tic Tac Toe.deps.json
+C:\Osama_Code\.Net\C#\Projects\Small Projects\Tic Tac Toe\Tic Tac Toe\bin\Release\net8.0\app.publish\Tic Tac Toe.runtimeconfig.json
+C:\Osama_Code\.Net\C#\Projects\Small Projects\Tic Tac Toe\Tic Tac Toe\bin\Release\net8.0\app.publish\Tic Tac Toe.pdb
