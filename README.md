@@ -5,6 +5,6 @@
 
 Mods in the game :
 ---------------------
-1) You can play VS AI
+1) You can play VS Computer 
 2) You Can Play 2 Player
 ______________________________________________________________________________________________________
